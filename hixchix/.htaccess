@@ -1,0 +1,12 @@
+
+RewriteEngine on
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+RewriteCond %{HTTP_HOST} ^hixchix\.nnjsda\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.hixchix\.nnjsda\.org$
+RewriteRule ^/?$ "http\:\/\/www\.sqrdance\.org\/WesternWheelers\-HixandChix\/" [R=301,L]
+

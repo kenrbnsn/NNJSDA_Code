@@ -1,0 +1,12 @@
+
+RewriteEngine on
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+RewriteCond %{HTTP_HOST} ^y\-squares\.nnjsda\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.y\-squares\.nnjsda\.org$
+RewriteRule ^/?$ "http\:\/\/y\-squares\.org\/" [R=301,L]
+

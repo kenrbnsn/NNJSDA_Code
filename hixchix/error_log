@@ -1,0 +1,126 @@
+[06-Jan-2008 21:30:39] PHP Parse error:  syntax error, unexpected T_IF in /home/nnjsda/public_html/hixchix/new_index.php on line 8
+[08-Jan-2008 18:52:36] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[09-Jan-2008 06:10:19] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[09-Jan-2008 16:39:00] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[09-Jan-2008 17:58:49] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[09-Jan-2008 18:21:45] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[09-Jan-2008 19:15:35] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[10-Jan-2008 05:40:38] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[10-Jan-2008 11:42:10] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[10-Jan-2008 18:41:01] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[11-Jan-2008 07:25:31] PHP Parse error:  syntax error, unexpected '[' in /home/nnjsda/public_html/hixchix/index.php on line 8
+[11-Jan-2008 07:27:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/nnjsda/public_html/hixchix/index.php on line 20
+[21-Apr-2009 16:02:36] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[21-Apr-2009 22:52:56] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[22-Apr-2009 00:40:00] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[22-Apr-2009 02:00:37] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[22-Apr-2009 09:04:10] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[22-Apr-2009 16:40:36] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[23-Apr-2009 07:20:24] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[23-Apr-2009 16:13:16] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[23-Apr-2009 20:57:33] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[24-Apr-2009 00:18:55] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[24-Apr-2009 00:18:55] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[24-Apr-2009 00:18:56] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[24-Apr-2009 18:47:07] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[24-Apr-2009 23:09:08] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[25-Apr-2009 14:05:20] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[25-Apr-2009 17:09:43] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[25-Apr-2009 21:33:42] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[25-Apr-2009 22:41:38] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[26-Apr-2009 04:18:11] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[26-Apr-2009 07:20:05] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[26-Apr-2009 11:19:13] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 02:49:12] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 02:49:24] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 17:39:55] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 18:01:28] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 18:35:09] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 19:47:01] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 20:24:13] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 22:37:10] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[27-Apr-2009 23:54:41] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[28-Apr-2009 02:04:58] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[28-Apr-2009 04:02:45] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:05:57] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:06:05] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:06:08] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:06:23] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:06:34] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:07:05] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 02:07:22] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 11:47:25] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[29-Apr-2009 19:29:45] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[30-Apr-2009 10:26:28] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[01-May-2009 00:37:45] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[01-May-2009 23:13:16] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[02-May-2009 04:31:06] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[02-May-2009 04:55:59] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[03-May-2009 03:46:16] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[04-May-2009 14:39:47] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[04-May-2009 14:40:06] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[04-May-2009 14:40:10] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[04-May-2009 23:27:15] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[05-May-2009 05:39:05] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[05-May-2009 13:54:42] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 14:34:46] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 16:21:01] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 17:26:11] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 18:29:47] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 19:28:17] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 19:59:05] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 21:01:17] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 02:14:38] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 05:58:02] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 07:31:16] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 07:47:02] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 09:31:38] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 11:28:13] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 13:51:27] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[07-May-2009 14:50:36] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[08-May-2009 01:40:55] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[08-May-2009 02:58:02] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[08-May-2009 15:44:27] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[08-May-2009 18:24:17] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[09-May-2009 07:13:07] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[09-May-2009 07:13:08] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[09-May-2009 07:13:09] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[09-May-2009 07:13:09] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[09-May-2009 15:02:28] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 01:26:52] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 11:18:24] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:04:56] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:05:23] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:06:58] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:07:06] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:07:17] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:07:27] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:29:16] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 12:29:52] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[11-May-2009 07:47:11] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[17-Sep-2011 10:29:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 10:29:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:20] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:20] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 21:24:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 23:51:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Sep-2011 23:51:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Sep-2011 10:55:12] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[23-Sep-2011 18:00:35] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[18-Oct-2011 06:53:55] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[22-Oct-2011 05:21:46] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[01-Nov-2011 18:23:57] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[01-Nov-2011 18:23:57] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[01-Nov-2011 18:24:05] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[01-Nov-2011 18:33:26] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[14-Dec-2011 16:13:01] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[02-Jul-2012 15:10:26] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[01-Aug-2012 19:55:18] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
+[31-Aug-2012 02:14:54] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nnjsda/public_html/hixchix/index.php on line 46
