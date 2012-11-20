@@ -1,0 +1,33 @@
+Array
+(
+    [9/17/2006] => Rutgers Promenaders<br>First Dance of the 2006/2007 Season<br>--------------------~1`NNJSDA<br>Delegates Meeting<br>--------------------~7
+    [9/8/2006] => Y Squares<br>Welcome Back<br>--------------------~2
+    [10/15/2006] => Rutgers Promenaders<br>--------------------~3
+    [10/19/2006] => AL&#039;e&#039;MO Squares<br>--------------------~4
+    [9/7/2006] => Belles &amp; Beaux<br>Fun Night Open House<br>--------------------~8
+    [2/4/2007] => Rutgers Promenaders<br>--------------------~11
+    [9/15/2006] => Ironia Reelers<br>Friendship Dance<br>--------------------~10
+)
+
+Array
+(
+    [9/17/2006] => Rutgers Promenaders<br>First Dance of the 2006/2007 Season<br>--------------------~1`NNJSDA<br>Delegates Meeting<br>--------------------~7
+    [9/8/2006] => Y Squares<br>Welcome Back<br>--------------------~2
+    [10/15/2006] => Rutgers Promenaders<br>--------------------~3
+    [10/19/2006] => AL&#039;e&#039;MO Squares<br>--------------------~4
+    [9/7/2006] => Belles &amp; Beaux<br>Fun Night Open House<br>--------------------~8
+    [2/4/2007] => Rutgers Promenaders<br>--------------------~11
+    [9/15/2006] => Ironia Reelers<br>Friendship Dance<br>--------------------~10
+)
+
+Array
+(
+    [9/17/2006] => Rutgers Promenaders<br>First Dance of the 2006/2007 Season<br>--------------------~1`NNJSDA<br>Delegates Meeting<br>--------------------~7
+    [9/8/2006] => Y Squares<br>Welcome Back<br>--------------------~2
+    [10/15/2006] => Rutgers Promenaders<br>--------------------~3
+    [10/19/2006] => AL&#039;e&#039;MO Squares<br>--------------------~4
+    [9/7/2006] => Belles &amp; Beaux<br>Fun Night Open House<br>--------------------~8
+    [2/4/2007] => Rutgers Promenaders<br>--------------------~11
+    [9/15/2006] => Ironia Reelers<br>Friendship Dance<br>--------------------~10
+)
+

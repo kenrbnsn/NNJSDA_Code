@@ -1,0 +1,94 @@
+[14-Jul-2008 23:19:58] PHP Parse error:  syntax error, unexpected '=' in /home/nnjsda/public_html/admin/upload_press_releases.php on line 3
+[14-Jul-2008 23:32:48] PHP Parse error:  syntax error, unexpected $end in /home/nnjsda/public_html/admin/emailtracker.inc.php on line 34
+[16-Jul-2008 17:03:57] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'nnjsda'@'localhost' (using password: NO) in /home/nnjsda/public_html/admin/upload_press_releases.php on line 42
+[16-Jul-2008 17:03:57] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/nnjsda/public_html/admin/upload_press_releases.php on line 42
+[16-Jul-2008 17:03:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'nnjsda'@'localhost' (using password: NO) in /home/nnjsda/public_html/admin/upload_press_releases.php on line 43
+[16-Jul-2008 17:03:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/nnjsda/public_html/admin/upload_press_releases.php on line 43
+[16-Jul-2008 19:33:59] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'nnjsda'@'localhost' (using password: NO) in /home/nnjsda/public_html/admin/upload_press_releases.php on line 42
+[16-Jul-2008 19:33:59] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/nnjsda/public_html/admin/upload_press_releases.php on line 42
+[16-Jul-2008 19:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'nnjsda'@'localhost' (using password: NO) in /home/nnjsda/public_html/admin/upload_press_releases.php on line 43
+[16-Jul-2008 19:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/nnjsda/public_html/admin/upload_press_releases.php on line 43
+[26-Oct-2008 17:36:29] PHP Parse error:  syntax error, unexpected ';' in /home/nnjsda/public_html/admin/cal_year.php on line 3
+[02-Mar-2009 22:59:54] PHP Warning:  move_uploaded_file(../nnjsda_documents/Our_Grand_Square_History.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/nnjsda/public_html/admin/upload_documents.php on line 65
+[02-Mar-2009 22:59:54] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phppRTdmW' to '../nnjsda_documents/Our_Grand_Square_History.pdf' in /home/nnjsda/public_html/admin/upload_documents.php on line 65
+[06-May-2009 16:30:44] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 16:33:34] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 16:33:35] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 16:39:10] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 16:39:10] PHP Warning:  POST Content-Length of 14096441 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-May-2009 16:45:51] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 17:04:26] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 17:04:26] PHP Warning:  POST Content-Length of 14095653 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-May-2009 17:34:06] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 17:34:06] PHP Warning:  POST Content-Length of 14095629 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-May-2009 17:35:28] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 17:35:28] PHP Warning:  POST Content-Length of 14095638 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-May-2009 18:21:51] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 18:21:51] PHP Warning:  POST Content-Length of 8518411 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-May-2009 18:30:56] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-May-2009 18:49:29] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 23:21:18] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 23:22:04] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[10-May-2009 23:23:10] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[04-Jul-2009 09:54:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/nnjsda/public_html/admin/upload_presidents_letter.php on line 49
+[20-Aug-2009 20:29:58] PHP Warning:  include(../../emailtracker.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/nnjsda/public_html/admin/select_pictures.php on line 38
+[20-Aug-2009 20:29:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../emailtracker.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nnjsda/public_html/admin/select_pictures.php on line 38
+[27-Aug-2009 15:40:18] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/select_pictures.php on line 111
+[20-Sep-2009 12:34:43] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/cal_year.php on line 122
+[20-Sep-2009 12:35:03] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/cal_year.php on line 122
+[20-Sep-2009 12:35:07] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/cal_year.php on line 122
+[13-Mar-2010 17:17:31] PHP Warning:  Error parsing event.ini on line 16
+ in /home/nnjsda/public_html/admin/parse_event.php on line 2
+[10-Sep-2010 13:04:57] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/cal_year.php on line 122
+[15-Mar-2011 14:29:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_CASE or T_DEFAULT or '}' in /home/nnjsda/public_html/admin/add_calls.php on line 11
+[15-Mar-2011 14:31:03] PHP Fatal error:  Function name must be a string in /home/nnjsda/public_html/admin/add_calls.php on line 20
+[15-Mar-2011 14:32:25] PHP Fatal error:  Function name must be a string in /home/nnjsda/public_html/admin/add_calls.php on line 20
+[15-Mar-2011 15:07:48] PHP Fatal error:  Function name must be a string in /home/nnjsda/public_html/admin/add_calls.php on line 24
+[15-Mar-2011 15:08:47] PHP Fatal error:  Call to undefined function ucword() in /home/nnjsda/public_html/admin/add_calls.php on line 27
+[02-Jun-2011 15:17:35] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/update_patrons.php on line 52
+[02-Jun-2011 15:17:59] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/update_patrons.php on line 52
+[18-Sep-2011 12:20:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:20:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:20:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:20:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:20:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:20:57] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:21:01] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:22:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:22:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:22:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2011 12:22:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jan-2012 20:14:35] PHP Parse error:  syntax error, unexpected '}' in /home/nnjsda/public_html/admin/update-sdl.php on line 43
+[19-Jan-2012 20:15:05] PHP Parse error:  syntax error, unexpected '}' in /home/nnjsda/public_html/admin/update-sdl.php on line 43
+[19-Jan-2012 20:51:11] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/update-sdl.php on line 26
+[19-Jan-2012 20:52:29] PHP Warning:  Invalid argument supplied for foreach() in /home/nnjsda/public_html/admin/update-sdl.php on line 26
+[19-Jan-2012 20:53:17] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/nnjsda/public_html/admin/update-sdl.php on line 39
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 394
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 394
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[07-Feb-2012 16:59:23] PHP Warning:  substr() expects parameter 3 to be long, string given in /home/nnjsda/public_html/admin/admin.php on line 380
+[13-Jul-2012 10:07:43] PHP Warning:  json_encode() expects parameter 2 to be long, array given in /home/nnjsda/public_html/admin/ajax-test-case.php on line 3
+[10-Oct-2012 18:59:12] PHP Fatal error:  Call to undefined function openvms_cvt_filename() in /home/nnjsda/public_html/admin/test_menu_yui.php on line 35

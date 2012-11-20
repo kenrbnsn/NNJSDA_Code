@@ -1,0 +1,3 @@
+<?
+echo urlencode("Belles & Beaux");
+?>

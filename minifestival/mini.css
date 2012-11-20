@@ -1,0 +1,16 @@
+td.prompt { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-weight: bold;  vertical-align: top;  text-transform: uppercase;    }
+td.fillin {
+	text-decoration: underline; font-family: 'Courier New', Courier, monospace;
+	vertical-align: top;
+}
+td.nums
+{
+	text-decoration: underline;
+	font-family: 'Courier New', Courier, monospace;
+	text-align: right;
+	vertical-align: top;
+}
+td.numprompt { font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  font-weight: bold;  vertical-align: top;  text-transform: uppercase;  text-align: right;     }
+
+h1.caps
+{ text-transform: capitalize; }

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:ymaps="http://api.maps.yahoo.com/Maps/V1/AnnotatedMaps.xsd">
+	<channel>
+		<title>NNJSDA Mini Festival Location</title>
+		<link><![CDATA[http://www.nnjsda.org]]></link>
+		<description>NNJSDA 2005 Mini Festival Map</description>
+		<ymaps:Groups>
+			<Group>
+				<Title>Bridgewater Raritan Middle School</Title>
+				<Id>brms</Id>
+				<BaseIcon><![CDATA[http://developer.yahoo.net/maps/star_red.gif]]></BaseIcon>
+			</Group>
+			<Group>
+				<Title>Restaurants</Title>
+				<Id>eat</Id>
+				<BaseIcon><![CDATA[http://www.nnjsda.org/minifestival/rest_marker.gif]]></BaseIcon>
+			</Group>
+		</ymaps:Groups>
+		<item>
+			<title>NNJSDA Mini Festival 2005</title>
+			<link><![CDATA[http://www.nnjsda.org/minifestival/]]></link>
+			<description>Bridgewater Raritan Middle School</description>
+			<ymaps:Address>Foothill Road and Merriwood Drive</ymaps:Address>
+			<ymaps:CityState>Bridgewater, NJ</ymaps:CityState>
+			<ymaps:GroupId>brms</ymaps:GroupId>
+		</item>
+		<item>
+				<title>Felix 9 Diner</title>
+				<ymaps:Address>1244 US Highway 22</ymaps:Address>
+				<ymaps:CityState>Bridgewater, NJ</ymaps:CityState>
+				<ymaps:PhoneNumber>(908) 725-8118</ymaps:PhoneNumber>
+				<ymaps:GroupId>eat</ymaps:GroupId>
+		</item>
+		<item>
+				<title>Chao Phaya Thai Cuisine</title>
+				<ymaps:Address>9 Davenport St</ymaps:Address>
+				<ymaps:CityState>Somerville, NJ</ymaps:CityState>
+				<ymaps:PhoneNumber><span style="font-weight:bold">(908) 231-0655</span></ymaps:PhoneNumber>
+				<ymaps:GroupId>eat</ymaps:GroupId>
+				<geo:lat>40.569595</geo:lat>
+				<geo:long>-74.615695</geo:long>
+		</item>
+		<ymaps::ZoomLevel>3</ymaps::ZoomLevel>
+	</channel>
+</rss>
